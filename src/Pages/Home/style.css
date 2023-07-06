@@ -1,0 +1,17 @@
+.logout-btn {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.home-page {
+  padding: 40px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .home-page {
+    overflow-x: auto;
+  }
+}
