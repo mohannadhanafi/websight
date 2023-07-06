@@ -12,7 +12,7 @@ To get the project up and running on your local machine, follow these steps:
 
 ### Installation
 1. Clone the repository to your local machine:
-`git clone https://github.com/your-username/car-management-app.git`
+`git clone https://github.com/mohannadhanafi/websight-task.git`
 
 2. Change to the project directory:
 `cd car-management-app`
